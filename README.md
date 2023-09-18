@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronan.
-- 👀 I’m interested in Security, Automation, Networking and building things! 
-- 🌱 I’m currently learning Python, Django and Natural Language Processing
+- 👀 I’m interested in Web Development, Automation, Networking and building things! 
+- 🌱 I’m currently learning Python, Django and React. 
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me email to connect@rpdh.uk.
 
