@@ -73,7 +73,7 @@
   </div>
 <div id="isla">
   <a href="https://isla.supply">
-    <img alt="Static Badge" src="https://img.shields.io/badge/isla-green?style=for-the-badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/isla%20Supply-green?style=for-the-badge"/>
   </a>
   </div>
 <!---
