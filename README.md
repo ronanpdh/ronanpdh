@@ -64,7 +64,18 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpdh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+# Checkout my other projects
+<div id="trailmix">
+  <a href="https://trailmix.club">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Trail%20Mix-FE5D26?style=for-the-badge"/>
+  </a>
+  </div>
+<div id="isla">
+  <a href="https://isla.supply">
+    <img alt="Static Badge" src="https://img.shields.io/badge/isla-green?style=for-the-badge"/>
+  </a>
+  </div>
 <!---
 devsnotdeus/devsnotdeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
