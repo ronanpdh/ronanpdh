@@ -26,7 +26,7 @@
   
 - 👀 I’m interested in Full stack, Creative and Game Development and building things!
   
-- 🌱 I’m always learning and wanting to improve, my current stack is PERN but im currently learning Nextjs and Go.
+- 🌱 I’m always learning and wanting to improve, my current stack is PERN.
   
 - 🤝 I’m looking to collaborate on anything and everything. One of my main projects at the moment is looking at the mental health space and journal products that can assist in mood tracking.
 
