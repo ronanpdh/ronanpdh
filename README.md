@@ -24,9 +24,9 @@
 ### :man_technologist: About Me 🤠 :
 
   
-- 👀 I’m interested in Full stack, Creative and Game Development and building things!
+- 👀 I’m interested in Full stack, Creative Work and building things!
   
-- 🌱 I’m always learning and wanting to improve, my current stack is PERN.
+- 🌱 I’m always learning and wanting to improve, currently learning Go.
   
 - 🤝 I’m looking to collaborate on anything and everything. One of my main projects at the moment is looking at the mental health space and journal products that can assist in mood tracking.
 
