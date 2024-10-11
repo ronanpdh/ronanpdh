@@ -78,7 +78,7 @@
 # Checkout my other projects
 <div id="spots">
   <a href="https://goodspots.app/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Trail%20Mix-FE5D26?style=for-the-badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spots-FE5D26?style=for-the-badge"/>
   </a>
   </div>
 <div id="isla">
