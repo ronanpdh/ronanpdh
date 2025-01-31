@@ -78,8 +78,8 @@
   </a>
   </div>
 <div id="isla">
-  <a href="https://isla.supply">
-    <img alt="Static Badge" src="https://img.shields.io/badge/isla%20Supply-green?style=for-the-badge"/>
+  <a href="https://solostudio.app">
+    <img alt="Static Badge" src="https://img.shields.io/badge/solo%20Studio-orange?style=for-the-badge"/>
   </a>
   </div>
 
