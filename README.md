@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ronan-haughey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://read.cv/ronanpd">
+  <a href="https://rpdh.xyz">
    <img alt="Static Badge" src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
   <div id="hi">
