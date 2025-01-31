@@ -26,11 +26,7 @@
   
 - 👀 I’m interested in Full stack, Creative Work and building things!
   
-- 🌱 I’m always learning and wanting to improve, currently learning Go.
-  
 - 🤝 I’m looking to collaborate on anything and everything. One of my main projects at the moment is looking at the mental health space and journal products that can assist in mood tracking.
-
-- 🧑‍💼I'm currently looking for Full Stack, Front End & Back End roles.
 
 -  🖥️ Portfolio: www.rpdh.xyz
 
