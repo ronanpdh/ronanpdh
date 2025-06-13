@@ -1,38 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/r3oOLlq6oKUw2TCMKD/giphy.gif" width="100"/>
-</div>
-
-<div id="socialBadges" align="center">
-  <a href="https://www.linkedin.com/in/ronan-haughey/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://rpdh.xyz">
-   <img alt="Static Badge" src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo=readdotcv&logoColor=white"/>
-  </a>
-  <div id="hi">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Nice%20to%20meet%20you!-8A2BE2?style=for-the-badge"/>
-  </div>
-</div>
-
 <h1>
   Hi I'm Ronan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
----
-
-### :man_technologist: About Me 🤠 :
-
-  
-- 👀 I’m interested in Full stack, Creative Work and building things!
-  
-- 🤝 I’m looking to collaborate on anything and everything. One of my main projects at the moment is looking at the mental health space and journal products that can assist in mood tracking.
-
--  🖥️ Portfolio: www.rpdh.xyz
-
-- 📫 How to reach me email to connect@rpdh.uk or    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-haughey/)
-
-
 
 ---
 
@@ -61,30 +30,7 @@
  **Currently Learning**<br/>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="GoLang" width="40" height="40"/>&nbsp; 
- 
-
-
----
-
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpdh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-# Checkout my other projects
-<div id="spots">
-  <a href="https://goodspots.app/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Spots-FE5D26?style=for-the-badge"/>
-  </a>
-  </div>
-<div id="isla">
-  <a href="https://solostudio.app">
-    <img alt="Static Badge" src="https://img.shields.io/badge/solo%20Studio-orange?style=for-the-badge"/>
-  </a>
-  </div>
-
-
-  
+   
  <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQxOW1nbmg0aGQ4NTV4ZXBiNjlzNGl4b25ianRnZHdoY2FvZjhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif" width="300" height="300"/>
 </div>
